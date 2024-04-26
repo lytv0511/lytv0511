@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">Beginner programmer and a high school student</h3>
+<h3 align="center">A high school student learning programming</h3>
 
 - 🔭 I’m currently working on [Rock Paper Scissors Game](https://github.com/lytv0511/testing-repository/tree/main/Rock%20Paper%20Scissors%20Game)
 
