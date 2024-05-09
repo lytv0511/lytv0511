@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rock Paper Scissors Game](https://github.com/lytv0511/testing-repository/tree/main/Rock%20Paper%20Scissors%20Game)
 
-- 🌱 I’m currently learning **Swift, C++**
+- 🌱 I’m currently learning **Swift, C, C++**
 
 - 📝 I regularly write articles on [https://substack.com/@vincentleong](https://substack.com/@vincentleong)
 
