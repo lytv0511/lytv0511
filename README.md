@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, C, C++**
 
-- 📝 I regularly write articles on [https://substack.com/@vincentleong](https://substack.com/@vincentleong)
+- 📝 I regularly write articles on [https://substack.com/@vincentleong](https://substack.com/@vincentleong) and [https://medium.com/@vincentleong_67066](https://medium.com/@vincentleong_67066)
 
 - 📫 How to reach me **lytv0511@icloud.com**
 
