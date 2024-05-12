@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">A high school student learning programming</h3>
 
-- 🔭 I’m currently working on [Rock Paper Scissors Game](https://github.com/lytv0511/testing-repository/tree/main/Rock%20Paper%20Scissors%20Game)
+- 🔭 I’m currently working on [rock-paper-scissors]((https://github.com/lytv0511/rock-paper-scissors))
 
 - 🌱 I’m currently learning **Swift, C, C++**
 
