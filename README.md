@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vincent-leong-851b9b286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-leong" height="30" width="40" /></a>
 <a href="https://medium.com/@vincentleong_67066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vincentleong_67066" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vincent leong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vincent leong" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/vincent leong](https://m.youtube.com/channel/UCRpc6Mo-PNlXSK9hW_wGlgA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vincent leong" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
