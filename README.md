@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://substack.com/@vincentleong](https://substack.com/@vincentleong) and [https://medium.com/@vincentleong_67066](https://medium.com/@vincentleong_67066)
 
-- 📫 How to reach me **lytv0511@icloud.com**
+- 📫 How to reach me **lytv0511@icloud.com or lytv0511@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
