@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">A high school student learning programming</h3>
 
-- 🔭 I’m currently working on [Nutrivance]((https://github.com/lytv0511/Nutrivance)) and [timberx2025]((https://github.com/lytv0511/timberx2025))
+- 🔭 I’m currently working on [Nutrivance](https://github.com/lytv0511/Nutrivance) and [timberx2025](https://github.com/lytv0511/timberx2025)
 
 - 🌱 I’m currently learning and using **Swift, C, C++, and Java**
 
