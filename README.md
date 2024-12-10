@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">A high school student learning programming</h3>
 
-- 🔭 I’m currently working on [rock-paper-scissors]((https://github.com/lytv0511/rock-paper-scissors))
+- 🔭 I’m currently working on [Nutrivance]((https://github.com/lytv0511/Nutrivance)) and [timberx2025]((https://github.com/lytv0511/timberx2025))
 
-- 🌱 I’m currently learning **Swift, C, C++**
+- 🌱 I’m currently learning and using **Swift, C, C++, and Java**
 
 - 📝 I regularly write articles on [https://substack.com/@vincentleong](https://substack.com/@vincentleong) and [https://medium.com/@vincentleong_67066](https://medium.com/@vincentleong_67066)
 
