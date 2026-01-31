@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A high school student learning programming</h3>
+<h3 align="center">A high school student learning programming. I study machine learning theory and tensorflow and develop iOS apps as a hobby.</h3>
 
-- 🔭 I’m currently working on [Nutrivance](https://github.com/lytv0511/Nutrivance) and [timberx2025](https://github.com/lytv0511/timberx2025)
+- 🔭 I’m currently working on [Nutrivance](https://github.com/lytv0511/Nutrivance), an innovative iOS health app that uses local machine learning to analysis user health data securely and empowering health discovery. Supporting [Nutrivance](https://github.com/lytv0511/Nutrivance) is [Nutrivance-Test](https://github.com/lytv0511/Nutrivance-Test), a comprehensive collection of ml models trained with tensorflow and optimized for Apple's CoreML framework. As part of my duties in my competitive robtoics team, I program and manage [TimberXRunnerDecode](https://github.com/lytv0511/TimberXRunnerDecode), a specialized series of opmode programs utilizing FTC frameworks, allowing the easy programming of robots to achieve the season's goal.
 
-- 🌱 I’m currently learning and using **Swift, C, C++, and Java**
+- 🌱 I’m currently learning and using **Swift and Python** for iOS programming and powering machine learning, I am also using **Java** for FTC programming.
 
 - 📝 I regularly write articles on [https://substack.com/@vincentleong](https://substack.com/@vincentleong) and [https://medium.com/@vincentleong_67066](https://medium.com/@vincentleong_67066)
 
-- 📫 How to reach me **lytv0511@icloud.com** or **lytv0511@gmail.com**
+- 📫 How to reach me **lytv0511@icloud.com**, **lytv0511@gmail.com**, or **lytv0511@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
